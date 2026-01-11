@@ -1,4 +1,4 @@
-<img width="1106" height="491" alt="图片" src="https://github.com/user-attachments/assets/9ad6a8c1-4a6b-46c9-8e8b-b19fc4fee2ba" />## 基于Springboot+vue的摄影跟拍预定管理系统（源代码+LW+数据库)
+## 基于Springboot+vue的摄影跟拍预定管理系统（源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加QQ：3042127848 咨询接毕业设计论文**
@@ -69,7 +69,7 @@
 <img width="1106" height="528" alt="图片" src="https://github.com/user-attachments/assets/c9883ee6-0774-4d04-9e23-8d9e112b79c3" />
 <img width="1107" height="531" alt="图片" src="https://github.com/user-attachments/assets/331ba425-c8e3-42fd-9961-7621a73c6cd3" />
 ![Uploading 图片.png…]()
-
+<img width="1106" height="491" alt="图片" src="https://github.com/user-attachments/assets/9ad6a8c1-4a6b-46c9-8e8b-b19fc4fee2ba" />
 ## 五、浏览地址
 
 前端访问地址：http://localhost:8080/
